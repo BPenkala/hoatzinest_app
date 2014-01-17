@@ -1,10 +1,11 @@
+
 h1, h2, h3, h4, h5, h6{
-        font-family: 'Roboto', Arial;
-        font-weight: 600;
+	font-family: 'Roboto', Arial;
+	font-weight: 600;
     color: #34495E;
 }
 body p, body a{
-        font-size: 13px;
+	font-size: 13px;
     font-family: 'Open Sans', Lato, Helvetica Neue;
 }
 a{
@@ -14,38 +15,38 @@ a:hover, a:active{
     color: #3498db;
 }
 li{
-        list-style: none;
+	list-style: none;
 }
 .nb{
-         border: none;
+	 border: none;
  }
 body, .panelWhite{
-        background: #FAFAFA;
+	background: #FAFAFA;
 }
 .whiteBg{
     background: #FFFFFF;
 }
 .panelLightGray{
-        background: #EEEFF1;
+	background: #EEEFF1;
 }
 .panelGray{
-        background: #E2E6E9;
+	background: #E2E6E9;
 }
 .panelDarkGray{
-        background: #D2D6D9;
+	background: #D2D6D9;
 }
 .panelBlue{
     background: #323D4F;
 }
 .bg{
-        background: #FAFAFA;
+	background: #FAFAFA;
 }
 .clear-background{
     background: none;
 }
 .sign-up{
-        height: 11px;
-        background: #313d50;
+	height: 11px;
+	background: #313d50;
 }
 
 .button.secondary {
@@ -312,37 +313,37 @@ header{
 
 /********** Footer **********/
 footer{
-        background: #161C27;
-        padding-top: 60px;
+	background: #161C27;
+	padding-top: 60px;
 }
  
 footer p, footer a{
-        color: #738298;
+	color: #738298;
 }
 footer a:hover{
     color: #3497DB;
 }
-footer h1, footer h2,
-footer h3, footer h4,
-footer h5, footer h6,
+footer h1, footer h2, 
+footer h3, footer h4, 
+footer h5, footer h6, 
 footer span{
-        color: #ffffff;
+	color: #ffffff;
 }
 footer > span{
-        padding-bottom: 35px;
+	padding-bottom: 35px;
 }
 .button > h5{
     color: white;
 }
 .copyright{
-        background: #10151F;
-        color: #313d50;
-        text-align: center;
+	background: #10151F;
+	color: #313d50;
+	text-align: center;
     height: 56px;
 }
 .copyright p{
-        margin-top: 20px;
-        font-size: 12px;
+	margin-top: 20px;
+	font-size: 12px;
 }
 .social{
     margin-bottom: 40px;
@@ -366,8 +367,8 @@ footer > span{
     width: 50px;
 }
 .facebook, .facebook2{
-        background-position: center -200px;
+	background-position: center -200px;
 }
 .mail, .mail2{
-        background-position: center -400px;
+	background-position: center -400px;
 }
