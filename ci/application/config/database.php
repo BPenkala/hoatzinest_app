@@ -71,8 +71,8 @@
 $active_record = TRUE;
  
 $db['production']['hostname'] = "tunnel.pagodabox.com";
-$db['production']['username'] = "lonna";
-$db['production']['password'] = "LuBQUHwJ";
+$db['production']['username'] = "christen";
+$db['production']['password'] = "UoeswvLX";
 $db['production']['database'] = "db3";
 $db['production']['port']     = "3306";
 $db['production']['dbdriver'] = "mysql";
