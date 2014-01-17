@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'root';
-$db['default']['database'] = 'hoatzinestdb';
+$db['default']['hostname'] = 'tunnel.pagodabox.com:3306';
+$db['default']['username'] = 'lonna';
+$db['default']['password'] = 'LuBQUHwJ';
+$db['default']['database'] = 'hoatzindb';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
