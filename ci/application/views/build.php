@@ -77,28 +77,28 @@
             <div class="row">
                 <div class="large-8 columns">
                     <label for="project_what">What are you creating?</label>
-                    <input type="text" id="project_what" name="project_what" size="9999"></input>
+                    <input type="text" id="project_what" class="large-input" name="project_what" size="9999"></input>
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
                     <label for="project_why">Why are you creating this?</label>
-                    <input type="text" id="project_why" name="project_why"></input>
+                    <input type="text" id="project_why" class="large-input" name="project_why"></input>
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
                     <label for="project_how">How can others help you?</label>
-                    <input type="text" id="project_how" name="project_how"></input>
+                    <input type="text" id="project_how" class="large-input" name="project_how"></input>
                 </div>
             </div>
 
             <div class="row">
                 <div class="large-8 columns">
                     <label for="project_goals">What are the main goals you wish to accomplish with this project?</label>
-                    <input type="text" id="project_goals" name="project_goals"></input>
+                    <input type="text" id="project_goals" class="large-input" name="project_goals"></input>
                 </div>
                 <div class="large-4 columns">
                     <p>Example: Build an open source community</p>
